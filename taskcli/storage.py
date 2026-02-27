@@ -1,5 +1,4 @@
 import json
-import os
 from pathlib import Path
 
 APP_DIR = Path.home() / ".taskcli"
