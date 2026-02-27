@@ -1,0 +1,10 @@
+README.md
+pyproject.toml
+taskcli/__init__.py
+taskcli/main.py
+taskcli/storage.py
+taskcli.egg-info/PKG-INFO
+taskcli.egg-info/SOURCES.txt
+taskcli.egg-info/dependency_links.txt
+taskcli.egg-info/entry_points.txt
+taskcli.egg-info/top_level.txt

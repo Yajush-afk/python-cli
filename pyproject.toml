@@ -1,0 +1,11 @@
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+[project]
+name = "taskcli"
+version = "0.1.0"
+description = "A simple todo CLI tool"
+authors = [{name = "Yajush"}]
+requires-python = ">=3.8"
+[project.scripts]
+taskcli = "taskcli.main:main"
